@@ -84,3 +84,5 @@ rm(my_obj_Cobb)
 rm(filtered.my_obj_5X)
 rm(filtered.my_obj_Ross)
 rm(filtered.my_obj_Cobb)
+
+save.image("/home/projects/ku-cbd/data/HoloFood/Chicken_Epigenome/Chicken.RData")
